@@ -32,20 +32,25 @@ public class GameActivity extends org.andengine.ui.activity.BaseGameActivity
 	}
 
 	@Override
-	public void onCreateResources(OnCreateResourcesCallback pOnCreateResourcesCallback)
-		throws IOException {
+	public void onCreateResources(
+			OnCreateResourcesCallback pOnCreateResourcesCallback)
+					throws IOException {
 		// TODO Auto-generated method stub
+
 	}
 
 	@Override
 	public void onCreateScene(OnCreateSceneCallback pOnCreateSceneCallback)
-		throws IOException {
+			throws IOException {
 		// TODO Auto-generated method stub
+
 	}
 
 	@Override
-	public void onPopulateScene(Scene pScene, OnPopulateSceneCallback pOnPopulateSceneCallback)
-		throws IOException {
+	public void onPopulateScene(Scene pScene,
+			OnPopulateSceneCallback pOnPopulateSceneCallback)
+					throws IOException {
 		// TODO Auto-generated method stub
+
 	}
 }

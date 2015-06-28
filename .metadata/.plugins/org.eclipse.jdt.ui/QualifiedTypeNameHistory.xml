@@ -1,2 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy/>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="org.andengine.opengl.texture.region.TiledTextureRegion"/>
+<fullyQualifiedTypeName name="org.andengine.opengl.texture.region.TextureRegion"/>
+<fullyQualifiedTypeName name="org.andengine.entity.sprite.AnimatedSprite"/>
+<fullyQualifiedTypeName name="org.andengine.extension.physics.box2d.PhysicsWorld"/>
+<fullyQualifiedTypeName name="com.badlogic.gdx.physics.box2d.Body"/>
+<fullyQualifiedTypeName name="org.andengine.engine.Engine"/>
+<fullyQualifiedTypeName name="org.andengine.engine.camera.Camera"/>
+<fullyQualifiedTypeName name="org.andengine.engine.options.resolutionpolicy.IResolutionPolicy"/>
+<fullyQualifiedTypeName name="org.andengine.engine.options.resolutionpolicy.FillResolutionPolicy"/>
+<fullyQualifiedTypeName name="org.andengine.engine.options.ScreenOrientation"/>
+<fullyQualifiedTypeName name="org.andengine.engine.options.WakeLockOptions"/>
+</qualifiedTypeNameHistroy>
