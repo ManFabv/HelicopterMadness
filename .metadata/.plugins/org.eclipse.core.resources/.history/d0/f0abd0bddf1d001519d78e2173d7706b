@@ -1,0 +1,7 @@
+package com.manrique.helicoptermadness;
+
+import org.andengine.entity.sprite.AnimatedSprite;
+
+public class AnimatedPlayer extends AnimatedSprite {
+
+}

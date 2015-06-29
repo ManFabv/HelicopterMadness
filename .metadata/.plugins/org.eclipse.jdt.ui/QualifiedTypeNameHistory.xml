@@ -11,4 +11,5 @@
 <fullyQualifiedTypeName name="org.andengine.engine.options.resolutionpolicy.FillResolutionPolicy"/>
 <fullyQualifiedTypeName name="org.andengine.engine.options.ScreenOrientation"/>
 <fullyQualifiedTypeName name="org.andengine.engine.options.WakeLockOptions"/>
+<fullyQualifiedTypeName name="org.andengine.util.adt.color.Color"/>
 </qualifiedTypeNameHistroy>
